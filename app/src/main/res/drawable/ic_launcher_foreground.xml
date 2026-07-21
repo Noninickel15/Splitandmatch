@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Stylized Shield/Hexagon -->
+    <path
+        android:fillColor="@color/match_green"
+        android:pathData="M54,22 L86,40 L86,68 L54,86 L22,68 L22,40 Z" />
+
+    <!-- Central 'Match' Checkmark -->
+    <path
+        android:fillColor="#0F140F"
+        android:pathData="M44,54 L52,62 L66,44 L70,48 L52,70 L40,58 Z" />
+
+</vector>
